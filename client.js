@@ -23,10 +23,6 @@ const connect = function () {
   //   conn.write("Move: up");
   
   // }, 1000);
-  
-  
-
-
 
   return conn;
 };
